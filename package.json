@@ -1,0 +1,17 @@
+{
+  "name": "airpod-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "nodemon main.js"
+  },
+  "dependencies": {
+    "@j0hnm4r5/eslint-config": "^1.0.7",
+    "fastify": "^2.15.1",
+    "lodash.find": "^4.6.0",
+    "nodemon": "^2.0.4",
+    "plist": "^3.0.1"
+  }
+}
