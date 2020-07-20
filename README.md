@@ -7,4 +7,5 @@ A quick prototype to show how to sense AirPod Pro status from a Node app.
 ```
 npm i
 npm run start
+open http://localhost:5000
 ```
