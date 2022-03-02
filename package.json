@@ -12,6 +12,6 @@
     "fastify": "^2.15.1",
     "lodash.find": "^4.6.0",
     "nodemon": "^2.0.4",
-    "plist": "^3.0.1"
+    "plist": "^3.0.4"
   }
 }
